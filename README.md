@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhav Kumar Yadav</h1>
-<h3 align="center">Aspiring Data Scientist & Machine Learning Engineer | Jaipur, India</h3>
+<h3 align="center">Aspiring Data Scientist & Machine Learning Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=madhavkumaryadav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -7,19 +7,19 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=madhavkumaryadav&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
   </a>
 </p>
 
-### 👨‍💻 About Me
+###  About Me
 Data Science professional with expertise in machine learning, statistical analysis, and predictive modeling. Proficient in Python, Scikit-learn, and end-to-end ML pipeline development with strong knowledge of data preprocessing, feature engineering, and model deployment. Skilled at delivering reliable data-driven solutions through effective project execution, algorithm implementation, and model optimization techniques. Experienced in building production-ready applications with Docker containerization and REST API integration.
 
-- 🌱 Currently learning **Deep Learning & Advanced MLOps**
-- 👨‍💻 All projects & portfolio: [https://eclectic-pavlova-3a9c0a.netlify.app/](https://eclectic-pavlova-3a9c0a.netlify.app/)
-- 📫 Reach me: **ymadhav081@gmail.com**
-- 📄 Full resume: [Resume.pdf](https://eclectic-pavlova-3a9c0a.netlify.app/Resume.pdf)
+-  Currently learning **Deep Learning & Advanced MLOps**
+-  All projects & portfolio: [https://eclectic-pavlova-3a9c0a.netlify.app/](https://eclectic-pavlova-3a9c0a.netlify.app/)
+-  Reach me: **ymadhav081@gmail.com**
+-  Full resume: [Resume.pdf](https://eclectic-pavlova-3a9c0a.netlify.app/Resume.pdf)
 
-### 🔥 Featured Projects
+###  Featured Projects
 
 **Forest Fire Weather Index (FWI) Prediction** • Oct 2025  
 - Developed a Machine Learning web application to predict the Forest Fire Weather Index (FWI) based on meteorological data  
@@ -92,19 +92,8 @@ Jagannath University, Jaipur, Chaksu • 2023 – 2027
 
 ### 📊 GitHub Stats (Auto-updated with every contribution)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madhavkumaryadav&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhavkumaryadav&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=madhavkumaryadav&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<h3 align="center">Connect with Me</h3>
+<h2 align="center">Connect with Me</h2>
 <p align="center">
   <a href="https://linkedin.com/in/madhav-yadav" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -123,8 +112,5 @@ Jagannath University, Jaipur, Chaksu • 2023 – 2027
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/MadhavKumarYadav/MadhavKumarYadav/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
-Thanks for visiting! 🚀
+<h6 align="center">Thanks for visiting! 🚀</h6>
