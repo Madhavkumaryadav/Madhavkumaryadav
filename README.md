@@ -15,7 +15,7 @@
 Data Science professional with expertise in machine learning, statistical analysis, and predictive modeling. Proficient in Python, Scikit-learn, and end-to-end ML pipeline development with strong knowledge of data preprocessing, feature engineering, and model deployment. Skilled at delivering reliable data-driven solutions through effective project execution, algorithm implementation, and model optimization techniques. Experienced in building production-ready applications with Docker containerization and REST API integration.
 
 -  Currently learning **Deep Learning & Advanced MLOps**
--  All projects & portfolio: [https://eclectic-pavlova-3a9c0a.netlify.app/](https://eclectic-pavlova-3a9c0a.netlify.app/)
+-  All projects & portfolio: [https://eclectic-pavlova-3a9c0a.netlify.app/](https://madhavyadavdatascienceml.netlify.app/)
 -  Reach me: **ymadhav081@gmail.com**
 -  Full resume: [Resume.pdf](https://eclectic-pavlova-3a9c0a.netlify.app/Resume.pdf)
 
