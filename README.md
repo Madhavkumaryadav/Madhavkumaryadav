@@ -17,7 +17,7 @@ Data Science professional with expertise in machine learning, statistical analys
 -  Currently learning **Deep Learning & Advanced MLOps**
 -  All projects & portfolio: [https://eclectic-pavlova-3a9c0a.netlify.app/](https://madhavyadavdatascienceml.netlify.app/)
 -  Reach me: **ymadhav081@gmail.com**
--  Full resume: [Resume.pdf]([https://eclectic-pavlova-3a9c0a.netlify.app/Resume.pdf](https://drive.google.com/file/d/1sVx4uyY61LTXWp_jBt8Q6NdoFX1-3NJZ/view?usp=sharing))
+-  Full resume: **https://drive.google.com/file/d/1sVx4uyY61LTXWp_jBt8Q6NdoFX1-3NJZ/view?usp=sharing**
 
 ###  Featured Projects
 
