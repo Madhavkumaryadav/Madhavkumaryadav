@@ -202,12 +202,18 @@ Jagannath University, Jaipur, Chaksu • 2023 – 2027
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=madhavkumaryadav&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=0f172a&title_color=94a3b8&icon_color=64748b&text_color=cbd5e1" alt="GitHub Stats"/>
+<div style="margin-top:6px;margin-bottom:12px"><a href="https://github-readme-stats.vercel.app/api?username=madhavkumaryadav&show_icons=true" target="_blank">Open GitHub stats (fallback link)</a></div>
+
 <img width="49%" src="https://streak-stats.demolab.com/?user=madhavkumaryadav&hide_border=true&background=0f172a&ring=64748b&fire=94a3b8&currStreakLabel=94a3b8&sideLabels=cbd5e1&currStreakNum=cbd5e1&sideNums=cbd5e1&dates=64748b" alt="GitHub Streak"/>
+<div style="margin-top:6px;margin-bottom:12px"><a href="https://streak-stats.demolab.com/?user=madhavkumaryadav" target="_blank">Open streak stats (fallback link)</a></div>
 
 <br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavkumaryadav&layout=compact&theme=default&hide_border=true&bg_color=0f172a&title_color=94a3b8&text_color=cbd5e1&langs_count=8" alt="Top Languages"/>
+<div style="margin-top:6px;margin-bottom:12px"><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavkumaryadav" target="_blank">Open top languages (fallback link)</a></div>
+
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=madhavkumaryadav&hide_border=true&bg_color=0f172a&color=94a3b8&line=64748b&point=ffffff&area=true&area_color=1e293b" alt="Contribution Activity"/>
+<div style="margin-top:6px;margin-bottom:12px"><a href="https://github-readme-activity-graph.vercel.app/graph?username=madhavkumaryadav" target="_blank">Open activity graph (fallback link)</a></div>
 
 </div>
 
@@ -218,9 +224,12 @@ Jagannath University, Jaipur, Chaksu • 2023 – 2027
 <a href="https://github.com/Madhavkumaryadav/Student_Performance_Predictor">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=madhavkumaryadav&repo=Student_Performance_Predictor&theme=default&hide_border=true&bg_color=0f172a&title_color=94a3b8&icon_color=64748b&text_color=cbd5e1"/>
 </a>
+<div style="margin-top:6px;margin-bottom:12px"><a href="https://github.com/Madhavkumaryadav/Student_Performance_Predictor" target="_blank">Student Performance Predictor (repo)</a></div>
+
 <a href="https://github.com/Madhavkumaryadav/FWI_predictor_project">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=madhavkumaryadav&repo=FWI_predictor_project&theme=default&hide_border=true&bg_color=0f172a&title_color=94a3b8&icon_color=64748b&text_color=cbd5e1"/>
 </a>
+<div style="margin-top:6px;margin-bottom:12px"><a href="https://github.com/Madhavkumaryadav/FWI_predictor_project" target="_blank">FWI Predictor Project (repo)</a></div>
 
 </div>
 
@@ -230,6 +239,7 @@ Jagannath University, Jaipur, Chaksu • 2023 – 2027
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=madhavkumaryadav&theme=darkhub&no-frame=true&no-bg=false&row=2&column=4&margin-w=10&margin-h=10" alt="Trophies"/>
+<div style="margin-top:6px;margin-bottom:12px"><a href="https://github-profile-trophy.vercel.app/?username=madhavkumaryadav" target="_blank">Open trophies (fallback link)</a></div>
 </div>
 
 > Trophy tiles only appear once a matching milestone is actually reached (commits, stars, followers, PRs, issues, account age, etc.) — an empty-looking row usually means those specific milestones aren't hit yet, not a broken card. They'll fill in automatically as your GitHub activity grows. If the image itself fails to load (not just empty tiles), try this community-hosted mirror instead of the main endpoint, which gets overloaded: `https://github-profile-trophy-liard-delta.vercel.app/?username=madhavkumaryadav&theme=radical&row=2&column=4`
