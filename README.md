@@ -37,7 +37,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madhavkumaryadav/Madhavkumaryadav/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madhavkumaryadav/Madhavkumaryadav/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Madhavkumaryadav/Madhavkumaryadav/output/github-snake.svg" width="100%"/>
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Madhavkumaryadav/Madhavkumaryadav/output/github-snake.svg" width="100%" loading="lazy" onerror="this.onerror=null;this.src='https://github.com/Madhavkumaryadav.png';"/>
 </picture>
 </div>
 
