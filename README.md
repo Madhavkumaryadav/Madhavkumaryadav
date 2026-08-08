@@ -222,12 +222,12 @@ Jagannath University, Jaipur, Chaksu • 2023 – 2027
 <div align="center">
 
 <a href="https://github.com/Madhavkumaryadav/Student_Performance_Predictor">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=madhavkumaryadav&repo=Student_Performance_Predictor&theme=default&hide_border=true&bg_color=0f172a&title_color=94a3b8&icon_color=64748b&text_color=cbd5e1" loading="lazy" onerror="this.onerror=null;this.src='https://github.com/Madhavkumaryadav.png';" />
+  <img width="49%" src="output/pinned-placeholder.svg" loading="lazy" alt="Pinned repo placeholder" />
 </a>
 <div style="margin-top:6px;margin-bottom:12px"><a href="https://github.com/Madhavkumaryadav/Student_Performance_Predictor" target="_blank">Student Performance Predictor (repo)</a></div>
 
 <a href="https://github.com/Madhavkumaryadav/FWI_predictor_project">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=madhavkumaryadav&repo=FWI_predictor_project&theme=default&hide_border=true&bg_color=0f172a&title_color=94a3b8&icon_color=64748b&text_color=cbd5e1" loading="lazy" onerror="this.onerror=null;this.src='https://github.com/Madhavkumaryadav.png';" />
+  <img width="49%" src="output/pinned-placeholder.svg" loading="lazy" alt="Pinned repo placeholder" />
 </a>
 <div style="margin-top:6px;margin-bottom:12px"><a href="https://github.com/Madhavkumaryadav/FWI_predictor_project" target="_blank">FWI Predictor Project (repo)</a></div>
 
@@ -238,7 +238,7 @@ Jagannath University, Jaipur, Chaksu • 2023 – 2027
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=madhavkumaryadav&theme=darkhub&no-frame=true&no-bg=false&row=2&column=4&margin-w=10&margin-h=10" alt="Trophies" loading="lazy" onerror="this.onerror=null;this.src='https://github.com/Madhavkumaryadav.png';" />
+<img src="output/trophies-placeholder.svg" alt="Trophies (local fallback)" loading="lazy" />
 <div style="margin-top:6px;margin-bottom:12px"><a href="https://github-profile-trophy.vercel.app/?username=madhavkumaryadav" target="_blank">Open trophies (fallback link)</a></div>
 </div>
 
