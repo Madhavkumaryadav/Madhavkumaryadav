@@ -20,7 +20,7 @@ build/
 .idea/
 
 # GitHub Pages output
-output/
+# (tracked output/ images are committed to provide stable fallbacks)
 
 # Logs
 *.log
