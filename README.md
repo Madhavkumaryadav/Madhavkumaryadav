@@ -201,7 +201,7 @@ Jagannath University, Jaipur, Chaksu • 2023 – 2027
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=madhavkumaryadav&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=0f172a&title_color=94a3b8&icon_color=64748b&text_color=cbd5e1" alt="GitHub Stats" loading="lazy" onerror="this.onerror=null;this.src='https://github.com/Madhavkumaryadav.png';" />
+<img width="49%" src="output/github-stats.svg" alt="GitHub Stats (local fallback)" loading="lazy" />
 <div style="margin-top:6px;margin-bottom:12px"><a href="https://github-readme-stats.vercel.app/api?username=madhavkumaryadav&show_icons=true" target="_blank">Open GitHub stats (fallback link)</a></div>
 
 <img width="49%" src="https://streak-stats.demolab.com/?user=madhavkumaryadav&hide_border=true&background=0f172a&ring=64748b&fire=94a3b8&currStreakLabel=94a3b8&sideLabels=cbd5e1&currStreakNum=cbd5e1&sideNums=cbd5e1&dates=64748b" alt="GitHub Streak" loading="lazy" onerror="this.onerror=null;this.src='https://github.com/Madhavkumaryadav.png';" />
@@ -209,10 +209,10 @@ Jagannath University, Jaipur, Chaksu • 2023 – 2027
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavkumaryadav&layout=compact&theme=default&hide_border=true&bg_color=0f172a&title_color=94a3b8&text_color=cbd5e1&langs_count=8" alt="Top Languages" loading="lazy" onerror="this.onerror=null;this.src='https://github.com/Madhavkumaryadav.png';" />
+<img width="49%" src="output/top-langs.svg" alt="Top Languages (local fallback)" loading="lazy" />
 <div style="margin-top:6px;margin-bottom:12px"><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavkumaryadav" target="_blank">Open top languages (fallback link)</a></div>
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=madhavkumaryadav&hide_border=true&bg_color=0f172a&color=94a3b8&line=64748b&point=ffffff&area=true&area_color=1e293b" alt="Contribution Activity" loading="lazy" onerror="this.onerror=null;this.src='https://github.com/Madhavkumaryadav.png';" />
+<img width="49%" src="output/activity-graph.svg" alt="Contribution Activity (local fallback)" loading="lazy" />
 <div style="margin-top:6px;margin-bottom:12px"><a href="https://github-readme-activity-graph.vercel.app/graph?username=madhavkumaryadav" target="_blank">Open activity graph (fallback link)</a></div>
 
 </div>
