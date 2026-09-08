@@ -140,9 +140,16 @@ data_scientist = {
 ---
 
 ### 🏥 [Healthcare Operations Intelligence Dashboard](https://github.com/Madhavkumaryadav/Development-of-a-Healthcare-Operations-Intelligence-Dashboard-with-Decision-Analytics)
-- Decision-analytics dashboard project focused on healthcare operations intelligence
+- Decision-analytics dashboard built as part of a **Springboard Virtual Internship**, focused on healthcare operations intelligence
+- Deployed live on **Streamlit Cloud** with authenticated access
 
-`Power BI` `Data Analytics` `Dashboarding`
+**🔗 [Live Demo](https://healthsential.streamlit.app/)** — login required:
+| Field | Value |
+|---|---|
+| Username | `madhavy` |
+| Password | `nc6fLVVzdRWF` |
+
+`Power BI` `Python` `Streamlit` `Data Analytics` `Dashboarding`
 
 ---
 
@@ -196,55 +203,19 @@ Jagannath University, Jaipur, Chaksu • 2023 – 2027
 - 🏅 Introduction to Cybersecurity — *Cisco Networking Academy (August 2024)*
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="output/github-stats.svg" alt="GitHub Stats (local fallback)" loading="lazy" />
-<div style="margin-top:6px;margin-bottom:12px"><a href="https://github-readme-stats.vercel.app/api?username=madhavkumaryadav&show_icons=true" target="_blank">Open GitHub stats (fallback link)</a></div>
-
-<img width="49%" src="https://streak-stats.demolab.com/?user=madhavkumaryadav&hide_border=true&background=0f172a&ring=64748b&fire=94a3b8&currStreakLabel=94a3b8&sideLabels=cbd5e1&currStreakNum=cbd5e1&sideNums=cbd5e1&dates=64748b" alt="GitHub Streak" loading="lazy" onerror="this.onerror=null;this.src='https://github.com/Madhavkumaryadav.png';" />
-<div style="margin-top:6px;margin-bottom:12px"><a href="https://streak-stats.demolab.com/?user=madhavkumaryadav" target="_blank">Open streak stats (fallback link)</a></div>
-
-<br/>
-
-<img width="49%" src="output/top-langs.svg" alt="Top Languages (local fallback)" loading="lazy" />
-<div style="margin-top:6px;margin-bottom:12px"><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavkumaryadav" target="_blank">Open top languages (fallback link)</a></div>
-
-<img width="49%" src="output/activity-graph.svg" alt="Contribution Activity (local fallback)" loading="lazy" />
-<div style="margin-top:6px;margin-bottom:12px"><a href="https://github-readme-activity-graph.vercel.app/graph?username=madhavkumaryadav" target="_blank">Open activity graph (fallback link)</a></div>
+<img src="https://streak-stats.demolab.com/?user=madhavkumaryadav&hide_border=true&background=0f172a&ring=64748b&fire=94a3b8&currStreakLabel=94a3b8&sideLabels=cbd5e1&currStreakNum=cbd5e1&sideNums=cbd5e1&dates=64748b" alt="GitHub Streak" loading="lazy" />
 
 </div>
 
 ### 📌 Pinned Repositories
 
-<div align="center">
+- 🎓 [Student Performance Predictor](https://github.com/Madhavkumaryadav/Student_Performance_Predictor)
+- 🔥 [FWI Predictor Project](https://github.com/Madhavkumaryadav/FWI_predictor_project)
 
-<a href="https://github.com/Madhavkumaryadav/Student_Performance_Predictor">
-  <img width="49%" src="output/pinned-placeholder.svg" loading="lazy" alt="Pinned repo placeholder" />
-</a>
-<div style="margin-top:6px;margin-bottom:12px"><a href="https://github.com/Madhavkumaryadav/Student_Performance_Predictor" target="_blank">Student Performance Predictor (repo)</a></div>
-
-<a href="https://github.com/Madhavkumaryadav/FWI_predictor_project">
-  <img width="49%" src="output/pinned-placeholder.svg" loading="lazy" alt="Pinned repo placeholder" />
-</a>
-<div style="margin-top:6px;margin-bottom:12px"><a href="https://github.com/Madhavkumaryadav/FWI_predictor_project" target="_blank">FWI Predictor Project (repo)</a></div>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="output/trophies-placeholder.svg" alt="Trophies (local fallback)" loading="lazy" />
-<div style="margin-top:6px;margin-bottom:12px"><a href="https://github-profile-trophy.vercel.app/?username=madhavkumaryadav" target="_blank">Open trophies (fallback link)</a></div>
-</div>
-
-> Trophy tiles only appear once a matching milestone is actually reached (commits, stars, followers, PRs, issues, account age, etc.) — an empty-looking row usually means those specific milestones aren't hit yet, not a broken card. They'll fill in automatically as your GitHub activity grows. If the image itself fails to load (not just empty tiles), try this community-hosted mirror instead of the main endpoint, which gets overloaded: `https://github-profile-trophy-liard-delta.vercel.app/?username=madhavkumaryadav&theme=radical&row=2&column=4`
-
----
 
 ## 📫 Connect With Me
 
@@ -267,68 +238,3 @@ Jagannath University, Jaipur, Chaksu • 2023 – 2027
 <sub>Built with data, deployed with intent.</sub>
 
 </div>
-
-<details>
-<summary><b>🐍 How to activate the animated contribution snake (one-time setup)</b></summary>
-<br/>
-
-The snake animation near the top of this README needs a one-time GitHub Actions setup in your `Madhavkumaryadav/Madhavkumaryadav` repo — it isn't active until you add this:
-
-1. In your `Madhavkumaryadav/Madhavkumaryadav` repo, create the file `.github/workflows/snake.yml` with this content:
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight UTC
-  workflow_dispatch:        # lets you trigger it manually too
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-2. Commit it, then go to the **Actions** tab of your repo and manually run the workflow once (via "Run workflow") so the `output` branch gets created immediately instead of waiting for the next midnight run.
-3. That's it — the `<picture>` element already in this README points to `raw.githubusercontent.com/Madhavkumaryadav/Madhavkumaryadav/output/github-snake.svg`, which the Action keeps updated daily. No further changes needed.
-
-</details>
-
-<details>
-<summary><b>🛠️ If stats/trophy cards still don't load (self-hosted fallback)</b></summary>
-<br/>
-
-The stats, streak, language, activity-graph, and trophy cards are rendered live by free third-party services (Vercel-hosted). These occasionally have real downtime that's outside your control — it isn't something wrong with the README code.
-
-For a version that never depends on someone else's uptime, generate static SVGs directly into your own repo via a scheduled Action:
-
-1. Fork [`jstrieb/github-stats`](https://github.com/jstrieb/github-stats) (or use [`lowlighter/metrics`](https://github.com/lowlighter/metrics) for an all-in-one stats + trophy + languages generator)
-2. Follow its setup instructions to add the Action to your `Madhavkumaryadav/Madhavkumaryadav` repo
-3. It commits fresh `.svg` files to your repo on a schedule — reference those local files here instead of the external URLs
-4. Since the images then live in your own repo, they can't break due to a third-party outage
-
-This is the same approach many high-visibility developer profiles use for guaranteed uptime.
-
-</details>
